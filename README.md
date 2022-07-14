@@ -1,2 +1,13 @@
-# qa_guru_python_lesson-7
-7. Allure Reports
+<strong>7. Allure Reports</strong>
+
+
+
+<b>Этот тест представить в трех вариантах:</b>
+
+1. Чистый Selene (без шагов)
+
+2. Лямбда шаги через with allure.step
+
+3. Шаги с декоратором @allure.step
+
+4. Разметку тестов всеми аннотациями
