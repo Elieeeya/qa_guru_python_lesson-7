@@ -31,7 +31,5 @@ __pycache__/
 venv*/
 
 # Allure
-test/allure-results
+test/allure-results/
 
-# Pytest
-test/.pytest_cache
